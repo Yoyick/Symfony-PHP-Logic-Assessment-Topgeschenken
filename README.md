@@ -26,7 +26,7 @@ You may (optionally) create a basic User entity and build on top of that.
 Create a function that takes a 2D array (e.g., [[1,2,3],[4,5,6],[7,8,9]]) of at least 3×3 in size and rotates it by 90 degrees.
 Bonus: Extra points if the function can rotate in both directions.
 
-### Example
+Example:
 **Input:**
  ```1 2 3
     4 5 6
