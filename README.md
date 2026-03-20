@@ -30,12 +30,13 @@ Bonus: Extra points if the function can rotate in both directions.
 **Input:**
  ```1 2 3
     4 5 6
-    7 8 9```
+    7 8 9
+```
 **Output:**
 ``` 7 4 1
     8 5 2
-    9 6 3```
-
+    9 6 3
+```
 *Note: This project was originally built following specific requirements (PHP 7.2+ compatibility and Symfony preference).*
 
 ### 🛠 Tech Stack
